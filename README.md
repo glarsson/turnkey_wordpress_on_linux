@@ -1,5 +1,5 @@
 # turnkey_wordpress_on_linux
-A completely turnkey bash script to create a wordpress site from scratch using MariaDB, certbot (Let's Encrypt), Nginx in ~250MB of RAM usage idle. on GCP.
+A complete turnkey bash script to create a wordpress site from scratch using MariaDB, certbot (Let's Encrypt), Nginx and Debian Linux on GCP in ~250MB of RAM usage idle.
 
 Project created to brush up on Bash scripting skills, Azure DevOps and Linux in general.
 
